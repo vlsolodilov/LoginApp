@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="auth">Авторизация</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="sign_in">Вход</string>
+    <string name="payments">Платежи</string>
+    <string name="error">Ошибка</string>
+    <string name="error_message">Случилась какая-то ошибка\nПопробуем снова?</string>
+    <string name="try_again">Попробовать</string>
+</resources>
